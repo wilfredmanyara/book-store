@@ -1,9 +1,4 @@
-# React + Vite
+# React + Vite Output
 
-Enjoy the Free code + Assets 😍 
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Group 1](https://github.com/wilfredmanyara/book-store/assets/72160527/05717e57-3301-4788-90b2-5ca8ded5211a)
